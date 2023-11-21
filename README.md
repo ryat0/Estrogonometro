@@ -7,7 +7,10 @@ Este site foi criado durante um Curso Técnico em Informática, na aula de Lingu
 As linguagens foram:
 
 • html
+
 • css
+
 • php
+
 
 As linguagens de marcação html e css foram utilizadas para dar visual ao site, enquanto a linguagem de programação php realizou as operações necessárias para trazer vida ao site.
